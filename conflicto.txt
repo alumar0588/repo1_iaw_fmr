@@ -1,1 +1,1 @@
-texto para ejemplo de conflicto
+texto diferente para generar conflicto
