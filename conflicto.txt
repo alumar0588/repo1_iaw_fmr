@@ -1,2 +1,4 @@
 texto para ejemplo de conflicto
 contenido nuevo para conflicto desde master
+
+texto diferente para generar conflicto
